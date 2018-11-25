@@ -1,0 +1,7 @@
+{
+  "botToken": "DISCORD_BOT_TOKEN",
+  "username": "WEKU_USERNAME",
+  "postingKey": "WEKU_WIF",
+  "weight": 100,
+  "commandPrefix" : "$"
+}

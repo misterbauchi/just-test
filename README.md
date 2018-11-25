@@ -1,2 +1,1 @@
-# just-test
-gg
+# test-vote-bot
